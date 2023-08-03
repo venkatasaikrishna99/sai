@@ -1,0 +1,6 @@
+ublic DNS
+ ec2-65-2-35-78.ap-south-1.compute.amazonaws.com
+User name
+ Administrator
+Password
+ p)ndEaDd5CsikX1fSu*!fIRl9sm8uG?n
